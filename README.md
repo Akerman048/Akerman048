@@ -4,10 +4,14 @@
 
 I build scalable web applications using **TypeScript, React, Next.js, Node.js, PostgreSQL, AWS and Docker**.
 
+## ⚡ Technologies I Work With
+
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui,zustand,tanstackquery" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tanstackquery" height="48"/>
 </p>
 
 ### ⚙️ Backend
