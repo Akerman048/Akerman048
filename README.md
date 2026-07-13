@@ -1,21 +1,36 @@
-## 🚀 Tech Stack
+# Hi 👋 I'm Valerii Oleksiienko
 
-### Frontend
+### Full-Stack Software Engineer
+
+I build scalable web applications using **TypeScript, React, Next.js, Node.js, PostgreSQL, AWS and Docker**.
+
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui,zustand,tanstackquery" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcnui,zustand,tanstackquery" height="48"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,firebase,prisma" />
 </p>
 
-### DevOps & Cloud
+### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman" />
 </p>
 
-**Also experienced with**
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" />
+</p>
 
-`REST APIs` • `JWT Authentication` • `Refresh Tokens` • `Server Actions` • `Route Handlers` • `HTTP/HTTPS` • `DNS` • `TCP/IP` • `Load Balancing` • `EC2` • `IAM` • `VPC` • `S3` • `Docker Compose` • `Swagger/OpenAPI`
+### 🧩 Also Experienced With
+
+`REST APIs` • `Next.js Server Actions` • `Route Handlers` • `JWT Authentication` • `Refresh Tokens`
+
+`HTTP/HTTPS` • `DNS` • `TCP/IP` • `Load Balancing`
+
+`EC2` • `IAM` • `VPC` • `S3` • `Docker Compose`
+
+`SQL` • `Firebase Firestore` • `Swagger / OpenAPI`
