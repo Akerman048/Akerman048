@@ -39,4 +39,10 @@ I build scalable web applications using **TypeScript, React, Next.js, Node.js, P
 
 `SQL` • `Firebase Firestore` • `Swagger / OpenAPI`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akerman048&show_icons=true&theme=github_dark&hide_border=true)
+
+<a href="https://github.com/Akerman048">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Akerman048&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Valerii's GitHub stats"
+  />
+</a>
