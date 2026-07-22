@@ -39,3 +39,5 @@ I build scalable web applications using **TypeScript, React, Next.js, Node.js, P
 
 `SQL` • `Firebase Firestore` • `Swagger / OpenAPI`
 
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akerman048&show_icons=true&theme=github_dark&hide_border=true)
