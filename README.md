@@ -38,3 +38,6 @@ I build scalable web applications using **TypeScript, React, Next.js, Node.js, P
 `EC2` • `IAM` • `VPC` • `S3` • `Docker Compose`
 
 `SQL` • `Firebase Firestore` • `Swagger / OpenAPI`
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akerman048&show_icons=true)
