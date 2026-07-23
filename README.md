@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer
 
-I build scalable web applications using **TypeScript, React, Next.js, Node.js, PostgreSQL, AWS and Docker**.
+I build scalable backend and full-stack applications using **Go, TypeScript, React, Next.js, Node.js, PostgreSQL, AWS and Docker**.
 
 ## ⚡ Technologies I Work With
 
@@ -16,7 +16,7 @@ I build scalable web applications using **TypeScript, React, Next.js, Node.js, P
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,firebase,prisma" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,postgres,redis,firebase,prisma" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -26,18 +26,21 @@ I build scalable web applications using **TypeScript, React, Next.js, Node.js, P
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js" />
 </p>
 
 ### 🧩 Also Experienced With
 
 `REST APIs` • `Next.js Server Actions` • `Route Handlers` • `JWT Authentication` • `Refresh Tokens`
 
+`Go Concurrency` • `Goroutines` • `Channels` • `Context`
+
 `HTTP/HTTPS` • `DNS` • `TCP/IP` • `Load Balancing`
 
 `EC2` • `IAM` • `VPC` • `S3` • `Docker Compose`
 
-`SQL` • `Firebase Firestore` • `Swagger / OpenAPI`
+`SQL` • `PostgreSQL` • `Prisma ORM` • `Firebase Firestore`
 
+`Swagger / OpenAPI`
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akerman048&show_icons=true&theme=github_dark&hide_border=true)
